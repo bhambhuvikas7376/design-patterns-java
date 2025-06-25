@@ -15,7 +15,7 @@ This repository showcases design patterns implemented in modern Java:
 - Architectural patterns for large-scale applications
 
 ## 🔥 Recent Updates
-- **2025-06-21** - [Modern Factory Pattern with Generics](src/main/java/2025-06-21) - Type-safe factory implementation using generics and functional interfaces *(Intermediate)*
+- **2025-06-25** - [Modern Factory Pattern with Generics](src/main/java/2025-06-25) - Type-safe factory implementation using generics and functional interfaces *(Intermediate)*
 - **Daily Updates**: Consistent implementation practice
 - **Code Quality**: Production-ready implementations
 - **Documentation**: Comprehensive explanations and examples
